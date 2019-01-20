@@ -7,3 +7,5 @@ Utilized sensor data to manuever the drone with driver's specific hand gestures.
 Established serial communication between **Ardunio** and sensors using the **SPI** protocol.
 
 Developed methods for filtering erratic sensor data to allow optimal responsiveness.
+
+**Authors:** Ali Budak, Alexandru Camer
