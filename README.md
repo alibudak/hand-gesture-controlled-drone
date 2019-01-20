@@ -8,4 +8,6 @@ Established serial communication between **Ardunio** and sensors using the **SPI
 
 Developed methods for filtering erratic sensor data to allow optimal responsiveness.
 
+[YouTube demo](https://www.youtube.com/watch?v=axMm7yQCF-Q)
+
 **Authors:** Ali Budak, Alexandru Camer
